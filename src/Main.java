@@ -14,5 +14,23 @@ public class Main {
         placabase.chipset = "AMD b550";
 
         System.out.println("PlacaBase");
+
+        MemoriaPrincipal memoriaprincipal= new MemoriaPrincipal();
+        memoriaprincipal.marca = "Corsair";
+        memoriaprincipal.modelo = "Vengeance LPX";
+        memoriaprincipal.velocidad = 3200;
+        memoriaprincipal.capacidadtotal = 32;
+        memoriaprincipal.unidades = "2x16";
+        memoriaprincipal.precio = 72.99;
+
+        System.out.println("MemoriaPrincipal");
+
+        Caja caja= new Caja();
+        caja.marca = "Alurin";
+        caja.modelo = "Torre ATX negra";
+        caja.fuentedealimentacion = "Fuente de Alimentacion 500W";
+        caja.precio = 54.99;
+
+        System.out.println("Caja");
     }
 }
