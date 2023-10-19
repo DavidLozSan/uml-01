@@ -7,7 +7,7 @@ public class Main {
 
         System.out.println("Procesador");
 
-        PlacaBase placabase = new PlacaBase();
+        PlacaBase placabase = new PlacaBase(); //new es un operador que crea un objeto
         placabase.marca = "Gigabyte";
         placabase.modelo = "B550";
         placabase.precio = 144.99;
