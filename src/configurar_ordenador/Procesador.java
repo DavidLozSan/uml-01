@@ -1,3 +1,5 @@
+package configurar_ordenador;
+
 //Esta clase esta añadida a GIT
 public class Procesador {
     //Estados, atributos, propiedades

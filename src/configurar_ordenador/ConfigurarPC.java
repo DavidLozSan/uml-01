@@ -1,3 +1,5 @@
+package configurar_ordenador;
+
 import java.util.ArrayList;
 
 public class ConfigurarPC {

@@ -1,3 +1,5 @@
+package configurar_ordenador;
+
 public class MemoriaPrincipal {
     public String marca;
     public String modelo;

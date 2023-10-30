@@ -1,4 +1,6 @@
-﻿public class PlacaBase {
+﻿package configurar_ordenador;
+
+public class PlacaBase {
     //Atributos
     public String marca;
     public String modelo;

@@ -1,3 +1,5 @@
+package configurar_ordenador;
+
 public class Caja {
     public String marca;
     public String modelo;
